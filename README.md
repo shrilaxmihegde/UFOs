@@ -37,6 +37,6 @@ For example; if user enter state name **CA*** in upper case insted of ***ca*** a
 
 ## Recommendation for further development;
 
-. Add the additional customization, such as click-button, or they can add dropdown list(atofiil) it can help ***guide*** the user and page more interactive.
-. Add a "Latest News" section that will highlight an article showing the most recent reported sighting.
-. In this webpageb showing only United State, they can add more country or globally.
+1. Add the additional customization, such as click-button, or they can add dropdown list(atofiil) it can help ***guide*** the user and page more interactive.
+2. Add a "Latest News" section that will highlight an article showing the most recent reported sighting.
+3. In this webpageb showing only United State, they can add more country or globally.
